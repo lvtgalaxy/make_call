@@ -1,6 +1,3 @@
 <Response>
-<speak version="1.0" xmlns="http://www.w3.org/2001/10/synthesis" xml:lang="vi-VN">
-  Đây là một ví dụ về văn bản tiếng Việt.
-</speak>
+    <Speak>Hi, You are trickster</Speak>
 </Response>
-
